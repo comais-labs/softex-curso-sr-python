@@ -57,6 +57,15 @@ Sistemas de recomendação são a espinha dorsal de muitas plataformas online qu
 
 **[Códigos Python utilizados na Aula3](./Aula3/)**
 
+# Aula 4
+
+- Métodos de acesso HTTP: inclusão, seleção, atualização e exclusão.
+- Trabalhando com REST API: Documentação do REST API
+- Consumo síncrono e assíncrono.
+- Tipos de serviços: gRPC, GraphQL
+
+**[Códigos Python utilizados na Aula4](./Aula4/)**
+
 ---
 
 **Junte-se a nós nesta jornada de aprendizado e descubra o fascinante mundo dos sistemas de recomendação!** 🚀📚
