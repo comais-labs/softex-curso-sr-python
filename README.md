@@ -19,41 +19,41 @@ Sistemas de recomendação são a espinha dorsal de muitas plataformas online qu
 
 # Aula 1
 
-- [Apresentação do Curso de Sistemas de Recomendação](https://youtu.be/1HBW5EuTsTI)
-- [Instalação do Ambiente no Linux](https://youtu.be/X-B64ffRTW8_)
-- [Instalação do ambiente no Windows](https://youtu.be/rQsW1iTTVTI)
-- [Instalação de Extensões](https://youtu.be/dP2sXWkg8vs)
-- [Conceitos Básicos](https://www.youtube.com/watch?v=Zhin_1pmO00)
-- [Desvio Condicional](https://youtu.be/b6c8qw9INKE)
-- [Estruturas de Repetição](https://youtu.be/VdmHS8C1MTU)
-- [Função e Módulo](https://youtu.be/Yenny4x99Oo)
-- [Listas: Tipos de dados Sequenciais](https://youtu.be/gYjAFq0rE2k)
-- [Listas métodos e operações](https://youtu.be/cQ6hIhjScqk)
-- [Dicionários](https://youtu.be/JtLetkNCEAQ)
-- [Estruturas de dados Set](https://youtu.be/5_9GMhN2wy0)
+- Apresentação do Curso de Sistemas de Recomendação
+- Instalação do Ambiente no Linux
+- Instalação do ambiente no Windows
+- Instalação de Extensões
+- Conceitos Básicos
+- Desvio Condicional
+- Estruturas de Repetição
+- Função e Módulo
+- Listas: Tipos de dados Sequenciais
+- Listas métodos e operações
+- Dicionários
+- Estruturas de dados Set
 
 **[Códigos Python utilizados na Aula1](./Aula1/)**
 
 # Aula 2
 
-- [Orientação a objetos](https://youtu.be/XXOYS_FRxUA)
-- [Herança e Polimorfismo - Parte 1](https://www.youtube.com/watch?v=HUYzbIyEwNI)
-- [Herança e Polimorfismo - Parte 2](https://www.youtube.com/watch?v=cDEkd5JYFBM)
-- [Exceções](https://youtu.be/nWLpqwGSkCM) 
-- [Expressões regulares](https://youtu.be/U83Hs9CDBnY) 
-- [Interface com o sistema de arquivos](https://youtu.be/rr0afWovWtA) 
-- [Módulo NumPy](https://www.youtube.com/watch?v=o9cANQB9HR0)
-- [Módulo Pandas](https://youtu.be/loOQP7qDVlM) 
-- [Módulo Requests](https://youtu.be/-_TYSUmoUwQ)
+- Orientação a objetos
+- Herança e Polimorfismo - Parte 1
+- Herança e Polimorfismo - Parte 2
+- Exceções
+- Expressões regulares
+- Interface com o sistema de arquivos
+- Módulo NumPy
+- Módulo Pandas
+- Módulo Requests
 
 **[Códigos Python utilizados na Aula2](./Aula2/)**
 
 # Aula 3
 
-- [Ambientes Virtuais e Gerenciamento de Pacotes](https://youtu.be/mg0__YxIFBU) 
-- [Testes em Python](https://youtu.be/XGjS3S8D-Cg) 
-- [Documentação](https://youtu.be/2LHNcJxgnnc) 
-- [Concorrência e Paralelismo](https://youtu.be/kEB2gv9SRno)
+- Ambientes Virtuais e Gerenciamento de Pacotes
+- Testes em Python
+- Documentação
+- Concorrência e Paralelismo
 
 **[Códigos Python utilizados na Aula3](./Aula3/)**
 
